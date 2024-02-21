@@ -1,8 +1,4 @@
-liczbaMieszkancowGdansk = 500_000
-liczbaMieszkancowPolski = 38_000_000
-liczbaMieszkancowPolski2 = 38000000
-
-print("Liczba mieszkańców Gdańska:  ", liczbaMieszkancowGdansk)
-
-print(5.6)
-print(5,6)
+liczbaCalkowita = 5
+liczbaZmiennoPozycyjna = 5.66675
+czyLokalOtwarty = True
+imie = "Anna"
