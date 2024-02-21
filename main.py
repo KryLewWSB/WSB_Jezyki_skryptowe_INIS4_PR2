@@ -1,7 +1,4 @@
-liczba = 5
-print(f"test {liczba}") #F String
-print("test" + str(liczba)) #Konkatenacja
-print(5 + liczba)
+print("\"Test\"")
+print('"Test"')
 
-liczba = "test"
-print(liczba)
+print("Ania ma \nkota.")
