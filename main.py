@@ -1,3 +1,7 @@
-print("Podaj wartość")
-liczba = input()
-print("To jest wartość wprowadzona: " + liczba)
+liczba = 5
+print(f"test {liczba}") #F String
+print("test" + str(liczba)) #Konkatenacja
+print(5 + liczba)
+
+liczba = "test"
+print(liczba)
