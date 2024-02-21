@@ -1,8 +1,8 @@
-print("Ania ma kota.", 5)
-#print("Ania ma kota." + 5)#bład: can only concatenate str (not "int") to str
-print("Ania ma kota." + str(5))
+liczbaMieszkancowGdansk = 500_000
+liczbaMieszkancowPolski = 38_000_000
+liczbaMieszkancowPolski2 = 38000000
 
-print("Ala", "ma", "kota", sep=" ", end=".")
-print("\nAnna" * 5)
-print("Anna\t" * 5)
-print("Anna " * 5)
+print("Liczba mieszkańców Gdańska:  ", liczbaMieszkancowGdansk)
+
+print(5.6)
+print(5,6)
