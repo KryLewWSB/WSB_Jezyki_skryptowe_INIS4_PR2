@@ -1,5 +1,6 @@
 print("Proszę o podanie liczby: ")
-pobranaWartosc = int(input())
+pobranaLiczba = int(input())
+print("Proszę o podanie potęgi do której chcemy podnieść: ")
+pobranaPotega = int(input())
 
-
-print(pobranaWartosc ** 2)
+print(pobranaLiczba ** pobranaPotega)
