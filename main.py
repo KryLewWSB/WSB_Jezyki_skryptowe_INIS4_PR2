@@ -1,2 +1,5 @@
-print(pow(2, 2))
-print(2 ** 2)
+print("Proszę o podanie liczby: ")
+pobranaWartosc = int(input())
+
+
+print(pobranaWartosc ** 2)
