@@ -6,5 +6,6 @@ while len(zbior) < 6:
     liczba = int(input())
     zbior.add(liczba)
 
-print(sorted(zbior))#sorted posortuje
+print(zbior)
+
 
