@@ -1,4 +1,5 @@
-class Pracownik:
+from IWypiszDane import IWypiszDane
+class Pracownik (IWypiszDane):
     def __init__(self, imie, nazwisko, dzial, wynagrodzenie):
         self.imie = imie
         self.nazwisko = nazwisko
